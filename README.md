@@ -1,5 +1,5 @@
 # SLAMCourse
-SLAM Course by Cyrill Stachniss, University of Bonn. Winter 2013. Assigments
+SLAM Course by Cyrill Stachniss, University of Freiburg. Winter 2013. Assigments
 
 Contains Matlab exercises, Course Slides and reference book.
 
